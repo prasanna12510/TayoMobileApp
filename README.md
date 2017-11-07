@@ -7,7 +7,7 @@ and also handled the screen orientation(Portait and landscape)
 ### Application ScreenShot
 
 Portrait Mode
-![alt text](portait.PNG "Portrait Mode")
+![alt text](portaitmode.PNG "Portrait Mode")
 
 Landscape Mode
 ![alt text](landscapemode.PNG "Landscape Mode")
