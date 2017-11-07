@@ -7,11 +7,11 @@ and also handled the screen orientation(Portait and landscape)
 ### Application ScreenShot
 
 Portrait Mode
-![alt text](portait.png "Portrait Mode")
+![alt text](portait.PNG "Portrait Mode")
 
 Landscape Mode
-![alt text](landscapemode.png "Landscape Mode")
+![alt text](landscapemode.PNG "Landscape Mode")
 
 Login Page
-![alt text](login.png "Login Page")
+![alt text](login.PNG "Login Page")
 
